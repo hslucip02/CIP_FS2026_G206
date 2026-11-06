@@ -57,6 +57,6 @@ Selenium needs Google Chrome installed; the driver is downloaded automatically.
 
 | Member | Contribution |
 |---|---|
-| Michele Mogos | Notebook 01: data acquisition, cleaning, EDA, analytic sample |
+| Michele Mogos | Notebook 01: data acquisition, cleaning, EDA, analytic sample; Project documents |
 | Divya Shori | Notebook 02: modelling and analysis for RQ1–RQ3; reproducibility fixes to notebook 01 |
 | Esteban Peña Zhiña | `visualizer.py`: Streamlit dashboard |
